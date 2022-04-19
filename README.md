@@ -1,4 +1,3 @@
 # actions-test
 
-This is fine.
-Testing
+Fixed.
